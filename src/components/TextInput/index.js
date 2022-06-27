@@ -1,6 +1,6 @@
 import './styles.css'
 
-export const TextIpunt = ({searchValue, handleChange}) => {
+export const TextInput = ({searchValue, handleChange}) => {
   return (
     <input 
     className="search-input" 
